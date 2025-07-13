@@ -2,39 +2,19 @@
 
 ## Full-Stack Developer | Open Source Enthusiast | Tech Explorer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jain-profile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satvik-jain.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satvik.jain.kht@gmail.com)
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate software developer with expertise in building robust and scalable applications. I love contributing to open-source projects and exploring new technologies. Currently focused on [your current focus/interests].
-
-```javascript
-const satvik = {
-  code: ["JavaScript", "Python", "Java", "TypeScript", "HTML/CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue", "Angular"],
-      css: ["Bootstrap", "Tailwind", "SASS"]
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-      python: ["Django", "Flask"]
-    },
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"]
-  },
-  currentFocus: "Building scalable web applications with modern technologies"
-};
-```
+I'm a passionate software developer with expertise in building robust and scalable applications. I love contributing to open-source projects and exploring new technologies. Currently focused on Language Models.
 
 ---
 
-### 🛠️ Tech Stack
+[### 🛠️ Tech Stack
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,7 +41,7 @@ const satvik = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+---]<>
 
 ### 📊 GitHub Stats
 
