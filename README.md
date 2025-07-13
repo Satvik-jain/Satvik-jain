@@ -49,11 +49,6 @@ satvik = {
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
 
-#### Cloud & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP Vertex AI](https://img.shields.io/badge/GCP_Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 ---
 
 ### 📊 GitHub Stats
@@ -82,20 +77,13 @@ satvik = {
 ### 📌 Featured ML Projects
 
 <p align="center">
-  <a href="https://github.com/satvik-jain/project1">
+  <a href="https://github.com/Satvik-jain/Large-Language-Mayhem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik-jain&repo=project1&theme=radical" alt="LLM Fine-tuning Project" />
   </a>
-  <a href="https://github.com/satvik-jain/project2">
+  <a href="https://github.com/Satvik-jain/Asset_AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik-jain&repo=project2&theme=radical" alt="ML Model Deployment" />
   </a>
 </p>
-
----
-
-### 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
