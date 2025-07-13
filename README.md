@@ -78,10 +78,10 @@ satvik = {
 
 <p align="center">
   <a href="https://github.com/Satvik-jain/Large-Language-Mayhem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik-jain&repo=project1&theme=radical" alt="LLM Fine-tuning Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik-jain&repo=Large-Language-Mayhem&theme=radical" alt="LLM Mayhem" />
   </a>
   <a href="https://github.com/Satvik-jain/Asset_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik-jain&repo=project2&theme=radical" alt="ML Model Deployment" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik-jain&repo=Asset_AI&theme=radical" alt="Asset AI" />
   </a>
 </p>
 
