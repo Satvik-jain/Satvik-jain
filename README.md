@@ -1,4 +1,3 @@
-```markdown
 # 👨‍💻 Satvik Jain
 
 ## Full-Stack Developer | Open Source Enthusiast | Tech Explorer
@@ -127,4 +126,3 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 <p align="center">
   <i>Happy Coding!</i>
 </p>
-```
